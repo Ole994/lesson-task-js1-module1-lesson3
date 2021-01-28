@@ -1,14 +1,14 @@
 body {
-    background: #ebebeb;
+  background: #ebebeb;
 }
 
 .container {
-    display: flex;
+  display: flex;
 }
 
 .product {
-    background: white;
-    border-radius: 1rem;
-    padding: 1rem;
-    margin: 1rem;
+  background: white;
+  border-radius: 1rem;
+  padding: 1rem;
+  margin: 1rem;
 }
